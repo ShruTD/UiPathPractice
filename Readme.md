@@ -1,3 +1,3 @@
-#UiPath Practice Exercises
+UiPath Practice Exercises
 
 Exercises covering various topics from Uipath Academy.
