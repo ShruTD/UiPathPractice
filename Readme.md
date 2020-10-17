@@ -1,3 +1,3 @@
 # UiPath Practice Exercises
 
-Exercises covering various topics.
+Exercises covering various topics with different uses cases.
